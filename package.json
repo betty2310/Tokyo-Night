@@ -1,7 +1,7 @@
 {
   "name": "nvtokyo",
-  "displayName": "nvTokyo",
-  "description": "Tokyo Night theme port from neovim",
+  "displayName": "nvTokyo Night",
+  "description": "Modern Tokyo Night theme port from neovim",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
