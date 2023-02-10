@@ -3,6 +3,11 @@
   "displayName": "nvTokyo Night",
   "description": "Modern Tokyo Night theme port from neovim",
   "version": "0.0.1",
+  "publisher": "ms-vscode",
+  "author": {
+    "name": "Huynh Duong",
+    "email": "betty2310@duck.com"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
