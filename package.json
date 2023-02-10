@@ -8,7 +8,7 @@
     "name": "Huynh Duong",
     "email": "betty2310@duck.com"
   },
-  "icon": "./public/icons.png",
+  "icon": "public/icons.png",
   "engines": {
     "vscode": "^1.75.0"
   },
