@@ -1,13 +1,14 @@
 {
-  "name": "nvtokyo",
+  "name": "nvtokyo-theme",
   "displayName": "nvTokyo Night",
-  "description": "Modern Tokyo Night theme port from neovim",
+  "description": "Tokyo Night theme port from neovim. Modern and gorgeous.",
   "version": "0.0.1",
-  "publisher": "ms-vscode",
+  "publisher": "Huynh Duong",
   "author": {
     "name": "Huynh Duong",
     "email": "betty2310@duck.com"
   },
+  "icon": "./public/icons.png",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -22,5 +23,11 @@
         "path": "./themes/nvToyo-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/betty2310/Tokyo-Night"
+  },
+  "homepage": "https://github.com/betty2310/Tokyo-Night/blob/main/README.md"
 }
